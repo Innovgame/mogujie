@@ -6,6 +6,7 @@
 body{
     font-size: 14px;
     color: #444;
+    background-color: #f9f9f9;
 }
 .container{
     max-width: 1080px;
@@ -121,4 +122,16 @@ a{
 }
 .header .search-bar button:hover{
     background-color: #fd051d;
+}
+
+.header .cart{
+    text-align: center;
+}
+.header .cart a{
+    float: right;
+    background-color: #fff;
+    border: 2px solid #eee;
+    padding: 10px;
+    color: #dd182b;
+    width: 70%;
 }
