@@ -135,3 +135,21 @@ a{
     color: #dd182b;
     width: 70%;
 }
+
+.main-promote .cat{
+    background-color: #7a7979;
+    color: #fff;
+    text-align: left;
+}
+.main-promote .cat .item{
+    padding:13px 0;
+    display: block;
+}
+.main-promote .cat .item:hover{
+    background-color:rgba(0, 0,0, 0.3);
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
